@@ -1,0 +1,61 @@
+Plant_ID,Plant_Name,Category,Price,Stock,Sold,Supplier,Watering_Requirement,Sunlight_Requirement,Revenue
+101,Money Plant,Indoor,120,30,20,GreenNest,Low,Indirect,2400
+102,Rose,Flowering,80,45,35,BloomHouse,Medium,Direct,2800
+103,Snake Plant,Indoor,250,20,12,LeafLife,Low,Indirect,3000
+104,Aloe Vera,Medicinal,100,25,18,HerbalHome,Low,Direct,1800
+105,Cactus,Succulent,150,15,10,DesertLeaf,Low,Direct,1500
+106,Peace Lily,Indoor,220,18,9,GreenNest,Medium,Indirect,1980
+107,Hibiscus,Flowering,110,28,16,BloomHouse,Medium,Direct,1760
+108,Tulsi,Medicinal,60,40,25,HerbalHome,Medium,Direct,1500
+109,Jade Plant,Succulent,160,22,14,DesertLeaf,Low,Indirect,2240
+110,Areca Palm,Indoor,350,12,6,UrbanRoots,Medium,Indirect,2100
+111,Marigold,Flowering,40,50,38,BloomHouse,Medium,Direct,1520
+112,Neem Sapling,Medicinal,90,30,11,,Low,Direct,990
+113,Echeveria,Succulent,190,17,8,DesertLeaf,Low,Direct,1520
+114,Spider Plant,Indoor,150,26,19,LeafLife,Low,Indirect,2850
+115,Jasmine,Flowering,130,21,13,BloomHouse,Medium,Direct,1690
+116,Mint,Medicinal,50,35,29,HerbalHome,High,Indirect,1450
+117,Adenium,Succulent,280,10,5,DesertLeaf,Low,Direct,1400
+118,Rubber Plant,Indoor,320,14,7,GreenNest,Low,Indirect,2240
+119,Petunia,Flowering,55,32,20,BloomHouse,Medium,Direct,1100
+120,Lemongrass,Medicinal,85,24,15,HerbalHome,Medium,Direct,1275
+121,Boston Fern,Indoor,170,16,9,GreenNest,High,Indirect,1530
+122,Portulaca,Flowering,35,55,42,BloomHouse,Low,Direct,1470
+123,Haworthia,Succulent,200,19,10,DesertLeaf,Low,Indirect,2000
+124,Curry Leaf,Medicinal,70,27,17,HerbalHome,Medium,Direct,1190
+125,ZZ Plant,Indoor,280,13,8,LeafLife,Low,Indirect,2240
+126,Dahlia,Flowering,95,23,14,BloomHouse,Medium,Direct,1330
+127,Philodendron,Indoor,230,15,8,GreenNest,Medium,Indirect,1840
+128,Kalanchoe,Succulent,130,20,12,DesertLeaf,Low,Direct,1560
+129,Basil,Medicinal,65,31,22,HerbalHome,Medium,Direct,1430
+130,Chrysanthemum,Flowering,75,29,18,BloomHouse,Medium,Direct,1350
+131,Dracaena,Indoor,260,17,9,UrbanRoots,Low,Indirect,2340
+132,Sunflower,Flowering,65,34,21,BloomHouse,Medium,Direct,1365
+133,Rosemary,Medicinal,140,18,7,HerbalHome,Low,Direct,980
+134,String of Pearls,Succulent,240,11,5,DesertLeaf,Low,Indirect,1200
+135,Monstera,Indoor,450,9,4,GreenNest,Medium,Indirect,1800
+136,Geranium,Flowering,115,25,13,BloomHouse,Medium,Direct,1495
+137,English Ivy,Indoor,140,20,12,LeafLife,Medium,Indirect,1680
+138,Oregano,Medicinal,95,22,10,HerbalHome,Low,Direct,950
+139,Calathea,Indoor,330,8,3,LeafLife,High,Indirect,990
+140,Zinnia,Flowering,50,38,26,BloomHouse,Low,Direct,1300
+141,Gasteria,Succulent,175,16,9,DesertLeaf,Low,Indirect,1575
+142,Periwinkle,Flowering,45,42,31,BloomHouse,Low,Direct,1395
+143,Croton,Indoor,210,19,11,UrbanRoots,Medium,Direct,2310
+144,Plumeria,Flowering,175,14,6,BloomHouse,Low,Direct,1050
+145,Lavender,Flowering,210,12,5,BloomHouse,Medium,Direct,1050
+146,Lucky Bamboo,Indoor,190,24,16,UrbanRoots,Medium,Indirect,3040
+147,Chives,Medicinal,55,30,19,HerbalHome,Medium,Direct,1045
+148,Anthurium,Flowering,270,10,4,BloomHouse,Medium,,1080
+149,Caladium,Indoor,185,13,7,GreenNest,High,Indirect,1295
+150,Aglaonema,Indoor,310,11,6,LeafLife,Low,Indirect,1860
+151,Parlor Palm,Indoor,290,15,8,GreenNest,Medium,Indirect,2320
+152,Night Jasmine,Flowering,150,18,9,BloomHouse,Medium,Direct,1350
+153,Fittonia,Indoor,125,21,13,LeafLife,High,Indirect,1625
+154,Japanese Maple,Outdoor,650,6,2,UrbanRoots,Medium,Direct,1300
+155,Petunia Purple,Flowering,60,27,15,BloomHouse,Medium,Direct,900
+156,Pencil Cactus,Succulent,220,9,4,DesertLeaf,Low,Direct,880
+157, ixora,Flowering,120,16,8,BloomHouse,Medium,Direct,960
+158,Ponytail Palm,Indoor,390,7,3,UrbanRoots,Low,Direct,1170
+159,Maranta,Indoor,240,12,6,LeafLife,Medium,Indirect,1440
+160,Star Jasmine,Flowering,160,19,10,BloomHouse,Medium,Direct,1600
